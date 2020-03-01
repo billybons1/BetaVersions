@@ -8,14 +8,14 @@ Test versions of the program are closed access, only for developers and for revi
 ##### *Updating the virus database
 ##### *Added a section for bloggers
 
-## ▶Version - 7.8.2
+## [▶Version - 7.8.2](http://webdesign.ru.net)
 ##### *Updating the interface
 ##### *Ability to invite partners via a referral link
 
-## ▶Version - 7.8.0
+## [▶Version - 7.8.0](http://webdesign.ru.net)
 ##### *Minor corrections
 
-## ▶Version - 7.2.3
+## [▶Version - 7.2.5](http://webdesign.ru.net)
 ##### *Minor corrections
 
 
