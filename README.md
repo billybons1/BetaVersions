@@ -17,5 +17,5 @@ Test versions of the program are closed access, only for developers and for revi
 
 # Quick installation
 ##### Works like the official release version, install and run. All test updates will appear here.
-##### © 2020 developer source.
+##### © 2020 Developer Source.
 
