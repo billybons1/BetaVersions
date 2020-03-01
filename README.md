@@ -3,7 +3,7 @@
 Test versions of the program are closed access, only for developers and for reviews for bloggers.
 #### Click version to download.
 ***
-`выделенные слова`
+
 ## [▶Version - 7.8.4 - stable](http://webdesign.ru.net)
 ##### `*Updating the virus database`
 ##### `*Added a section for bloggers`
