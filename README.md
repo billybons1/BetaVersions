@@ -6,7 +6,7 @@ Test versions of the program are closed access, only for developers and blogger'
 ***
 
 ## [:white_check_mark:Version - 7.8.4 - stable](http://bit.do/official-setup)
-##### `-Updating the virus database`
+##### `-Updating the database`
 ##### `-Added a section for bloggers`
 
 ## [:white_check_mark:Version - 7.8.2](http://bit.do/official-setup)
